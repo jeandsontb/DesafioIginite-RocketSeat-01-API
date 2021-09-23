@@ -33,6 +33,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Nesse repositório está a aplicação é necessário clonar o repositório para a sua máquina e seguir as informações abaixo:
 
+TESTES:
+
+```bash
+
+  Para rodar os testes execute o comando "yarn test" ou "npm run test"
+
+```
+
 BACKEND:
 
 ```bash
