@@ -77,7 +77,9 @@ Observação: Com excessão da rota POST /users , todas as outras deve passar o 
 ```
 ```
 
-## 📝 Feito por Jeandson Tenorio 👋🏽 [contato!](https://www.linkedin.com/in/jeandson/)
+## 📝 Feito por Jeandson Tenorio 
+
+👋🏽👋🏽👋🏽👋🏽 [contato!](https://www.linkedin.com/in/jeandson/)
 
 [nodejs]: https://nodejs.org/
 [express]: https://expressjs.com/pt-br/
