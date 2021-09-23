@@ -99,7 +99,7 @@ app.patch('/todos/:id/done', checkUserExistsAccount, (req, res) => {
   return res.status(200).json({message: 'updated success'});
 })
 
-app.delete('/todos/:id', checkUserExistsAccount, (req, res) => {
+app.delete('/todos/:id', checkUserExistsAccount, (req, res) => { 
   const { id } = req.params;
   const { user } = req;
 
