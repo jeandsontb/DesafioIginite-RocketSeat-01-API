@@ -75,7 +75,6 @@ BACKEND:
 Observação: Com excessão da rota POST /users , todas as outras deve passar o username no headers da requisição.
 
 ```
-```
 
 ## 📝 Feito por Jeandson Tenorio 
 
